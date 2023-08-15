@@ -1,0 +1,7 @@
+Name Surname Age Profession
+Arpi Isahakyan 18 singer
+Mane Ghazaryan 20 programmer
+Sargis Manukyan 25 teacher
+Van Sahakyan 26 writer
+Tigran Hakobyan 36 hairdresser
+Hovhannes Barseghyan 48 driver
